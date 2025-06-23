@@ -9,6 +9,9 @@ VibeScape is a dynamic, mood-based content platform that adapts its offerings ba
 - **Mood Diary**: A private journal that visualizes daily mood trends.
 - **Real-Time Updates**: Provides dynamic animations and visuals based on mood selections.
 
+# Live Demo
+https://mgx-qs6drpjlb7a.mgx.world
+
 # Directory Tree
 ```
 shadcn-ui/
@@ -56,17 +59,5 @@ shadcn-ui/
 - **State Management**: Context API for mood management
 - **Storage**: LocalStorage for persistent mood data
 
-# Usage
-1. **Install Dependencies**:
-   ```bash
-   cd /data/chats/4eaop/workspace/shadcn-ui
-   pnpm install
-   ```
-2. **Build the Project**:
-   ```bash
-   pnpm run build
-   ```
-3. **Run the Application**:
-   ```bash
-   pnpm run start
-   ```
+
+ 
