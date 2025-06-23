@@ -39,25 +39,9 @@ shadcn-ui/
 └── vite.config.ts                 # Vite configuration
 ```
 
-# File Description Inventory
-- **README.md**: Overview of the project and setup instructions.
-- **components.json**: Metadata for the components used in the project.
-- **eslint.config.js**: Configuration for ESLint.
-- **index.html**: The entry point of the application.
-- **package.json**: Lists dependencies and scripts for the project.
-- **postcss.config.js**: Configuration for PostCSS.
-- **src/**: Contains all source files including components, pages, contexts, hooks, and utilities.
-- **tailwind.config.ts**: Configuration for Tailwind CSS.
-- **template_config.json**: Configuration for templates used in the project.
-- **vite.config.ts**: Configuration for Vite, the build tool.
 
-# Technology Stack
-- **Frontend**: React.js, Tailwind CSS, Shadcn-UI components
-- **Visualization**: Chart.js for mood visualization
-- **Animations**: Framer Motion for smooth transitions
-- **Routing**: React Router for navigation
-- **State Management**: Context API for mood management
-- **Storage**: LocalStorage for persistent mood data
+
+
 
 
  
