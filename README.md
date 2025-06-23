@@ -12,6 +12,8 @@ VibeScape is a dynamic, mood-based content platform that adapts its offerings ba
 # Live Demo
 -https://mgx-qs6drpjlb7a.mgx.world
 
+<!-- Uploading "Screenshot_23-6-2025_215648_mgx-qs6drpjlb7a.mgx.world.jpeg"... -->
+
 # Directory Tree
 ```
 shadcn-ui/
