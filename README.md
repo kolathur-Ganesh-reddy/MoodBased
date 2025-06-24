@@ -1,4 +1,5 @@
 # MoodBased Project 
+![Image](https://github.com/user-attachments/assets/d7eadbdb-d55c-4b74-a7b6-be11ebb0d96f)
 ![Image](https://github.com/user-attachments/assets/5d6ddf6d-dc57-4fa5-8402-eb440e2a88a9)
 
 VibeScape is a dynamic, mood-based content platform that adapts its offerings based on the user's emotional state. Users can select or detect their mood, and the application customizes the UI and content—ranging from articles and music to products and visuals—to enhance or reflect that mood. The project aims to create a personalized digital experience that engages users by aligning with their feelings.
